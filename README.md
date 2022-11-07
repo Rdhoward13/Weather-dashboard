@@ -6,4 +6,7 @@ Here is the weather dashboard. When a city is searched, you are bale to see info
 
 ## Screenshot and Links
 
+[Github] (https://github.com/Rdhoward13/Weather-dashboard)\
+[LiveURL] (https://rdhoward13.github.io/Weather-dashboard/)\
+
 <img src = screenshot.png/>
